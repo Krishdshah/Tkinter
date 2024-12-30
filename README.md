@@ -1,4 +1,4 @@
-# Tkinter-
+# Tkinter
 This is python program to understand python Tkinter in an abbreviated manner
 
 How cool would it be if python gets Graphical User Interface i.e. GUI
